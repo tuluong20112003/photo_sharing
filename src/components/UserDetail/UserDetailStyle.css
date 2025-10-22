@@ -1,0 +1,8 @@
+h2 {
+    color: #648ef0;
+  }
+  p.user-info {
+    display: flex;
+    gap: 10px;
+    align-items: center;
+  }

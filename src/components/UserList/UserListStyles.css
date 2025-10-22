@@ -1,0 +1,14 @@
+a {
+    text-decoration: unset;
+    color: #4b73ff;
+  }
+  a:hover {
+    color: #004ff3;
+  }
+  .item {
+    display: flex;
+    gap: 10px;
+  }
+  .fullname {
+    margin-bottom: 0 !important;
+  }
